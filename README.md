@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/harjjotsinghh-mcp-server-postgres-multi-schema-badge.png)](https://mseep.ai/app/harjjotsinghh-mcp-server-postgres-multi-schema)
+
 # PostgreSQL Multi-Schema MCP Server
 
 A Model Context Protocol server that provides read-only access to PostgreSQL databases with enhanced multi-schema support. This server enables LLMs to inspect database schemas across multiple namespaces and execute read-only queries while maintaining schema isolation.
